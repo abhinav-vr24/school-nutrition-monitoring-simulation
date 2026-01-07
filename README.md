@@ -22,15 +22,15 @@ The dataset used is \*\*simulated but programme-realistic\*\*, created solely to
 
 \## Why Excel?
 
-District and block-level nutrition programme monitoring in India is predominantly conducted using \*\*Excel trackers\*\*, not advanced analytical tools.
+District and block-level nutrition programme monitoring in India is predominantly conducted using Excel trackers, not advanced analytical tools.
 
-This project \*\*intentionally uses Microsoft Excel\*\* to reflect:
+This project intentionally uses Microsoft Excel to reflect:
 
 \- Actual field practices
 \- Skills expected from District Consultants and Data Support Personnel
 \- Realistic constraints of programme implementation environments
 
-The use of Excel here is a \*\*deliberate methodological choice\*\*, not a limitation.
+The use of Excel here is a deliberate methodological choice, not a limitation.
 
 ---
 
@@ -45,7 +45,7 @@ School-based nutrition interventions play a critical role in improving child and
 \- Timely identification of gaps requiring follow-up
 \- Coordination between education and health systems
 
-District and block teams rely on \*\*routine school-level data\*\* to manage these programmes. This project simulates such a monitoring system.
+District and block teams rely on routine school-level data to manage these programmes. This project simulates such a monitoring system.
 
 ---
 
@@ -55,9 +55,9 @@ District and block teams rely on \*\*routine school-level data\*\* to manage the
 
 The objective of this project is to:
 
-> \*\*Design and demonstrate a district-level school nutrition programme monitoring system using Excel, focusing on coverage, reporting compliance, data validation, and follow-up readiness.\*\*
+> Design and demonstrate a district-level school nutrition programme monitoring system using Excel, focusing on coverage, reporting compliance, data validation, and follow-up readiness.
 
-The project does \*\*not\*\* attempt to measure nutritional outcomes or programme impact.
+The project does not attempt to measure nutritional outcomes or programme impact.
 
 ---
 
@@ -71,14 +71,14 @@ The project does \*\*not\*\* attempt to measure nutritional outcomes or programm
 
 \### Important Note
 
-This dataset \*\*does not represent actual programme performance\*\*. It is used only to demonstrate monitoring and reporting workflows.
+This dataset does not represent actual programme performance. It is used only to demonstrate monitoring and reporting workflows.
 
 ---
 
 
 
 \## Unit of Observation
-\- \*\*One row = One school × One reporting month\*\*
+\- One row = One school × One reporting month
 
 ---
 
