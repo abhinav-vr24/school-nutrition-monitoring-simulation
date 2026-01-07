@@ -1,0 +1,31 @@
+District,Block,School_ID,School_Name,School_Type,Reporting_Month,Enrolment_Total,Days_Meals_Planned,Days_Meals_Served,Meal_Coverage_Percent,IFA_Distribution_Conducted,Deworming_Conducted,Monthly_Report_Submitted,Data_Complete,Meals_Exceed_Plan,Report_Missing,Invalid_Enrolment
+Sitapur,Mahmudabad,SCH001,Government School 1,Upper Primary,2024-08,115,19,15,78.9,No,Yes,No,Yes,No,Yes,No
+Sitapur,Mahmudabad,SCH002,Government School 2,Upper Primary,2024-08,96,22,20,90.9,No,No,No,No,No,Yes,No
+Sitapur,Mahmudabad,SCH003,Government School 3,Upper Primary,2024-08,101,19,15,78.9,Yes,Yes,No,Yes,No,Yes,No
+Sitapur,Mahmudabad,SCH004,Government School 4,Upper Primary,2024-08,198,22,21,95.5,No,Yes,No,Yes,No,Yes,No
+Sitapur,Mahmudabad,SCH005,Government School 5,Upper Primary,2024-08,206,20,17,85,No,Yes,Yes,No,No,No,No
+Sitapur,Mahmudabad,SCH006,Government School 6,Primary,2024-08,73,19,19,100,No,Yes,Yes,No,No,No,No
+Sitapur,Mahmudabad,SCH007,Government School 7,Upper Primary,2024-08,162,20,19,95,No,Yes,No,No,No,Yes,No
+Sitapur,Mahmudabad,SCH008,Government School 8,Primary,2024-08,125,22,19,86.4,Yes,No,Yes,No,No,No,No
+Sitapur,Mahmudabad,SCH009,Government School 9,Primary,2024-08,126,19,19,100,Yes,Yes,No,No,No,Yes,No
+Sitapur,Mahmudabad,SCH010,Government School 10,Primary,2024-08,110,20,16,80,No,No,No,No,No,Yes,No
+Sitapur,Biswan,SCH011,Government School 11,Upper Primary,2024-08,78,18,18,100,No,No,Yes,Yes,No,No,No
+Sitapur,Biswan,SCH012,Government School 12,Upper Primary,2024-08,214,18,17,94.4,No,Yes,Yes,No,No,No,No
+Sitapur,Biswan,SCH013,Government School 13,Primary,2024-08,80,18,18,100,No,Yes,No,Yes,No,Yes,No
+Sitapur,Biswan,SCH014,Government School 14,Primary,2024-08,181,22,21,95.5,Yes,Yes,No,Yes,No,Yes,No
+Sitapur,Biswan,SCH015,Government School 15,Primary,2024-08,198,18,13,72.2,Yes,Yes,Yes,Yes,No,No,No
+Sitapur,Biswan,SCH016,Government School 16,Primary,2024-08,207,19,14,73.7,No,Yes,Yes,No,No,No,No
+Sitapur,Biswan,SCH017,Government School 17,Primary,2024-08,202,21,19,90.5,No,No,Yes,No,No,No,No
+Sitapur,Biswan,SCH018,Government School 18,Primary,2024-08,180,19,19,100,Yes,No,No,No,No,Yes,No
+Sitapur,Biswan,SCH019,Government School 19,Upper Primary,2024-08,115,22,21,95.5,No,Yes,Yes,Yes,No,No,No
+Sitapur,Biswan,SCH020,Government School 20,Upper Primary,2024-08,128,21,17,81,Yes,Yes,Yes,No,No,No,No
+Sitapur,Laharpur,SCH021,Government School 21,Upper Primary,2024-08,140,22,21,95.5,No,No,Yes,No,No,No,No
+Sitapur,Laharpur,SCH022,Government School 22,Primary,2024-08,68,20,15,75,No,Yes,No,No,No,Yes,No
+Sitapur,Laharpur,SCH023,Government School 23,Upper Primary,2024-08,140,19,16,84.2,Yes,No,Yes,No,No,No,No
+Sitapur,Laharpur,SCH024,Government School 24,Primary,2024-08,154,18,17,94.4,Yes,Yes,No,No,No,Yes,No
+Sitapur,Laharpur,SCH025,Government School 25,Upper Primary,2024-08,117,20,19,95,Yes,No,Yes,Yes,No,No,No
+Sitapur,Laharpur,SCH026,Government School 26,Upper Primary,2024-08,123,18,14,77.8,No,Yes,No,Yes,No,Yes,No
+Sitapur,Laharpur,SCH027,Government School 27,Upper Primary,2024-08,136,21,16,76.2,No,Yes,No,Yes,No,Yes,No
+Sitapur,Laharpur,SCH028,Government School 28,Upper Primary,2024-08,100,19,15,78.9,No,Yes,No,No,No,Yes,No
+Sitapur,Laharpur,SCH029,Government School 29,Primary,2024-08,105,18,13,72.2,Yes,No,No,Yes,No,Yes,No
+Sitapur,Laharpur,SCH030,Government School 30,Primary,2024-08,105,21,18,85.7,Yes,Yes,Yes,No,No,No,No

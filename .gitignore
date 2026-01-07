@@ -1,0 +1,16 @@
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary / backup Excel files
+~$*.xlsx
+*.tmp
+*.bak
+
+# Environment / local config
+.env
+
+# Logs (if any)
+*.log
+
