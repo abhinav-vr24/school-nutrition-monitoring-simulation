@@ -4,9 +4,9 @@
 
 \## Overview
 
-This project demonstrates a \*\*district-level monitoring and reporting system for school nutrition programmes\*\* using an \*\*Excel-based workflow\*\*, designed to mirror real-world programme implementation and supervision practices in India.
+This project demonstrates a district-level monitoring and reporting system for school nutrition programmes using an Excel-based workflow, designed to mirror real-world programme implementation and supervision practices in India.
 
-The project focuses on \*\*routine monitoring\*\*, not impact evaluation. It shows how district and block teams can use school-level data to:
+The project focuses on routine monitoring, not impact evaluation. It shows how district and block teams can use school-level data to:
 
 \- Track meal delivery coverage
 \- Monitor reporting compliance
@@ -14,7 +14,7 @@ The project focuses on \*\*routine monitoring\*\*, not impact evaluation. It sho
 \- Generate block and district summaries
 \- Prepare follow-up action lists for supervision
 
-The dataset used is \*\*simulated but programme-realistic\*\*, created solely to demonstrate monitoring logic, data management, and reporting workflows.
+The dataset used is simulated but programme-realistic, created solely to demonstrate monitoring logic, data management, and reporting workflows.
 
 ---
 
